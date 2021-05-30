@@ -1,6 +1,6 @@
 # Opencore 0.6.9 EFI for the Lenovo ThinkPad E580
 
-
+Tested with macOS Big Sur(11.4)
 
 ## Computer configuration
 
@@ -28,10 +28,16 @@
 
 ## Wi-Fi Adapter
 
-You can replace to intel AX series or BCM94352Z, if so you would also need to change the kext.
-Intel Wi-Fi Adapter：[OpenIntelWireless itlwm](https://github.com/OpenIntelWireless/itlwm)、[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+You can replace to intel AX series or BCM94352Z, if so you would also need to change the kext.（Wanna Airport？Just get Broadcom card）
 
-Brcm  Wi-Fi Adapter：[AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup)、[BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
+* Intel Wi-Fi Adapter：[OpenIntelWireless itlwm](https://github.com/OpenIntelWireless/itlwm)、[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+* Brcm  Wi-Fi Adapter：[AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup)、[BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
 
 The Ethernet  is working properly, so if you don't have a wireless card to replace, you can use Ethernet temporarily.
+
+## Audio
+
+The audio module is working properly.
+
+![image-20210530234436889](assets/image-20210530234436889.png)
 
