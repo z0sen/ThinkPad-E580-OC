@@ -30,6 +30,7 @@
 
 You can replace to intel AX series or BCM94352Z, if so you would also need to change the kext.
 Intel Wi-Fi Adapter：[OpenIntelWireless itlwm](https://github.com/OpenIntelWireless/itlwm)、[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+
 Brcm  Wi-Fi Adapter：[AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup)、[BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
 
 The Ethernet  is working properly, so if you don't have a wireless card to replace, you can use Ethernet temporarily.
