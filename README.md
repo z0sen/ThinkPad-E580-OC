@@ -11,7 +11,7 @@
 * Display：15.6" FHD IPS 1920x1080
 * SSD：Western Digital Blue NVMe SSD 1TB
 
-![image-20210530223216115](/Users/robert/Documents/GitHub/ThinkPad-E580-OC/assets/image-20210530223216115.png)
+![image-20210530223216115](assets/image-20210530223216115.png)
 
 ## BIOS Settings
 
